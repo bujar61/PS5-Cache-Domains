@@ -11,3 +11,9 @@ download4.epicgames.com
 epicgames-download1.akamaized.net
 fastly-download.epicgames.com
 cloudflare.epicgamescdn.com
+cdn4.unrealengine.com
+cdn5.unrealengine.com
+cdn6.unrealengine.com
+download5.epicgames.com
+fastly-download2.epicgames.com
+akamai-download.epicgames.com
