@@ -1,4 +1,16 @@
+.ps3.update.playstation.net
+.ps4.update.playstation.net
+.ps5.update.playstation.net
+apollo.dl.playstation.net
+apollo2.dl.playstation.net
+nsx.np.dl.playstation.net
+nsx-e.np.dl.playstation.net
+psn-rsc.prod.dl.playstation.net
+static-resource.np.community.playstation.net
+ares.dl.playstation.net
+zeus.dl.playstation.net
 gs2.ww.prod.dl.playstation.net
+ps5.gst.prod.dl.playstation.net
 *.gs2.ww.prod.dl.playstation.net
 *.gs2.sonycoment.loris-e.llnwd.net
 gs2-ww-prod.psn.akadns.net
