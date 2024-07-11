@@ -24,3 +24,9 @@ a0.ww.np.dl.playstation.net
 *.akadns.net
 *.edgesuite.net
 *.llnwd.net
+patches.rockstargames.com
+cdn.rockstargames.com
+rsg.prod.sc.gtavcdn.rockstargames.com
+scgttrk.rockstargames.com
+rsrc.rockstargames.com
+prod.ros.rockstargames.com
