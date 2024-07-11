@@ -6,8 +6,11 @@ gs2-ww-prod.psn.akadns.net
 gs2.ww.prod.dl.playstation.net.edgesuite.net
 *.gs2.ww.prod.dl.playstation.net.edgesuite.net
 playstation4.sony.akadns.net
+*playstation4.sony.akadns.net
 theia.dl.playstation.net
+*theia.dl.playstation.net
 tmdb.np.dl.playstation.net
+*tmdb.np.dl.playstation.net
 gs-sec.ww.np.dl.playstation.net
 *.playstation.net
 *.playstation.com
@@ -25,11 +28,15 @@ a0.ww.np.dl.playstation.net
 *.edgesuite.net
 *.llnwd.net
 patches.rockstargames.com
+*patches.rockstargames.com
 cdn.rockstargames.com
+*cdn.rockstargames.com
 rsg.prod.sc.gtavcdn.rockstargames.com
+*rsg.prod.sc.gtavcdn.rockstargames.com
 scgttrk.rockstargames.com
 rsrc.rockstargames.com
 prod.ros.rockstargames.com
+*.epicgames.com
 cdn1.epicgames.com
 cdn2.epicgames.com
 cdn.unrealengine.com
@@ -41,8 +48,10 @@ download2.epicgames.com
 download3.epicgames.com
 download4.epicgames.com
 epicgames-download1.akamaized.net
+*epicgames-download1.akamaized.net
 fastly-download.epicgames.com
 cloudflare.epicgamescdn.com
+*.unrealengine.com
 cdn4.unrealengine.com
 cdn5.unrealengine.com
 cdn6.unrealengine.com
@@ -51,10 +60,13 @@ fastly-download2.epicgames.com
 akamai-download.epicgames.com
 ps5.np.playstation.net.edgekey.net.globalredir.akadns88.net
 e40436.api8.akamaiedge.net
+*.api8.akamaiedge.net
 wild.api.playstation.com.edgekey.net
+*playstation.com.edgekey.net
 e259803.b.akamaiedge.net
 ps5.np.playstation.net
 ps5.np.playstation.net.edgekey88.net
+*.edgekey88.net
 
 
 
