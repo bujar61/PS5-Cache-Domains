@@ -49,3 +49,8 @@ cdn6.unrealengine.com
 download5.epicgames.com
 fastly-download2.epicgames.com
 akamai-download.epicgames.com
+ps5.np.playstation.net.edgekey.net.globalredir.akadns88.net
+e40436.api8.akamaiedge.net
+ps5.np.playstation.net
+ps5.np.playstation.net.edgekey88.net
+
