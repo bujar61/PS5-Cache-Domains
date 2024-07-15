@@ -55,3 +55,14 @@ s3.amazonaws.com
 .egamesb.apigee.net
 launcher-public-service-prod06.ol.epicgames.com
 api.unrealengine.com
+prod-ntp-3.ntp4.ps5.canonical.com
+ubuntu-content-cache-1.ps5.canonical.com
+igmp.mcast.net
+amyrose.canonical.com
+ubuntu-mirror-3.ps5.canonical.com
+all-systems.mcast.net
+ubuntu-content-cache-1.ps6.canonical.com
+blackcat.canonical.com
+gladys.canonical.com
+ubuntu-content-cache-3.ps5.canonical.com
+is-content-cache-2.ps5.canonical.com
